@@ -300,7 +300,7 @@ tuw HV
 晨昏定省	thaanf hoonz ddinhj tinhr  	10000	
 半身不遂	bans thaanz baats toaij  	10000	
 九五之尊	cuwur ngux chiz toonz  	10000	
-唯我獨尊	duyz ngax ddoocj toonz  	10000	
+唯我獨尊	duyz ngax dnewdoocj toonz  	10000	
 水陸道場	thuyr lucj ddaoj trangf  	10000	
 恐怖戰爭	khungr boos chieens tranhz  	10000	
 格物致知	cachs vaatj tris triz  	10000	
@@ -4677,8 +4677,8 @@ high frequency
 條	ddieeuf	1329	
 調	ddieeuf	1324	
 格	cachs	1317	
-一	yat	1317	#yao
-一	yawts	1317	#yao
+一	yat	1317	#dao
+一	yawts	1317	#dao
 一	nhaats	1317	
 革	cachs	1314	
 行	hangf	1310	
@@ -8793,6 +8793,7 @@ Am han viet	z
 嚎	haof	10000	
 嚐	thuwowngf	10000	
 嚓	sats	10000	
+嚕  tez 10000 #new
 嚕	loox	10000	
 嚙	giaor	10000	
 嚚	ngaanz	10000	
@@ -11122,6 +11123,7 @@ Am han viet	z
 泂	huynhs	10000	
 泅	tuf	10000	
 泆	daatj	10000	
+𭼢	vanr	10000	#new
 泌	bis	10000	
 泐	lawcj	10000	
 泑	uwur	10000	
@@ -23863,6 +23865,7 @@ Cachs
 𡳎	vax	1	#Loan or homonym
 𨘘	vax	1	#Loan or homonym
 𨁱	vax	1	#Loan or homonym
+𭼢  teo 1 #new
 𤀞	vax		
 渚	vax		
 浘	vax		
@@ -44542,3 +44545,4 @@ Cachs
 音	aamj	1	#Loan or homonym
 𩆢	aamf	1	#Loan or homonym
 喑	aamf		
+𭼢  teo #new
